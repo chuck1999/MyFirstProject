@@ -3,7 +3,7 @@ My name is Charles DeYarmon and this is Lab Assignment 19- Getting Started with 
 
 # Lab: FileRead
 
-This program reads student names and scores, calculates their average, 
+This program reads student names and scores
 and displays the letter grade.
 
 ## How to Run
