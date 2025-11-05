@@ -18,3 +18,6 @@ Mark: 78
 
 ## Author
 Charles DeYarmon
+
+## Collaboration Acknowledgment
+This project was reviewed and edited by Alan Castaneda on GitHub.
